@@ -49,5 +49,5 @@
   ConsoleMsgLib|QcomPkg/Library/ConsoleMsgLib/ConsoleMsgLib.inf
   PlatformHobLib|QcomPkg/Library/PlatformHobLib/PlatformHobLib.inf
 
-#[Components.common]
-# SurfaceDuoFamilyPkg/Driver/RamPartitionDxe/RamPartitionDxe.inf
+[Components.common]
+ SurfaceDuoFamilyPkg/Driver/RamPartitionDxe/RamPartitionDxe.inf
